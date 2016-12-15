@@ -1,0 +1,8 @@
+1,"1st",160,"yes"
+1,"2nd",127,"no"
+1,"3rd",389,"no"
+1,"crew",501,"no"
+2,"adult",1071,"no"
+2,"child",44,"yes"
+3,"female",260,"yes"
+3,"male",1019,"no"
